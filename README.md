@@ -1,11 +1,6 @@
-# About me
+# Profil
 
 
 **MAN-CIEL/MAN-CIEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- My hobbies are playing video games, drawing, making edits, listening to music, doing some sport and spending time with friends and family
-- Im ok with computer science, i can develop and design websites. Im also a good artist. To finish, im good math and im fluent in some langages like english, french and spanish
-- i do some sport, i make motion design, i draw. If it works, i also work my english on social media
-- Fun fact: im really fast at solving rubik's Cube
+Je m'appelle Ilan Manzari, j'ai 18 ans, et je suis actuellement étudiant en première année de BTS CIEL (Cybersécurité, Informatique et Réseaux). Je suis également à la recherche d'un stage de fin d'année scolaire (7 semaines), touchant à tout domaine lié à ma formation (avec du codage/programmation de préférences). Je suis plutôt orienté développement web, logiciel et administration système, mais je me débrouille partout, car c'est une passion. Dans la vie, j'aime bien travailler, faire du sport, passer du temps avec des amis, la famille, j'adore les jeux vidéos, tout type de création graphique et de développement informatique, mais aussi des casses-têtes. Je suis aussi passionné par la musique, le cinéma et l'Art en règle générale.
